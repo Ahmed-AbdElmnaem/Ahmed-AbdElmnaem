@@ -1,4 +1,4 @@
-<img src="https://www.thisiscolossal.com/wp-content/uploads/2018/04/agif1opt.gif" width="40">
+<img src="https://www.thisiscolossal.com/wp-content/uploads/2018/04/agif1opt.gif" width="250">
 
 # 👋 Hi, I'm Ahmed
 
