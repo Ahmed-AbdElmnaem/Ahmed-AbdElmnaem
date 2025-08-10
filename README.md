@@ -1,7 +1,11 @@
-<!-- Banner -->
+<!-- GIF Banner -->
 <p align="center">
-  <img src="A_digital_graphic_design_banner_for_Ahmed_Abd_Elmo.png" width="100%" alt="Ahmed Abd Elmonem Banner"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif" width="100%" alt="Banner Animation"/>
 </p>
+
+---
+
+# 👋 Hi, I'm Ahmed Abd Elmonem
 
 <!-- Typing Animation -->
 <p align="center">
