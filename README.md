@@ -1,6 +1,6 @@
 <!-- GIF Banner -->
 <p align="center">
-  <img src="https://motionbgs.com/media/3150/asus-rog-pixel-city_312.gif" width="70%" alt="Banner Animation"/>
+  <img src="https://motionbgs.com/media/3150/asus-rog-pixel-city_312.gif" width="55%" alt="Banner Animation"/>
 </p>
 
 ---
