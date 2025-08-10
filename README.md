@@ -1,28 +1,21 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+  <img src="A_digital_graphic_design_banner_for_Ahmed_Abd_Elmo.png" width="100%" alt="Ahmed Abd Elmonem Banner"/>
 </p>
-
-<!-- Name & Title -->
-<h1 align="center">Hi 👋, I'm Ahmed Abd Elmonem</h1>
-<h3 align="center">🚀 Flutter Developer | Clean Code Enthusiast</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=450&lines=Flutter+Developer;Clean+Architecture+Advocate;Passionate+about+UX+%26+Performance;Always+Learning+New+Tech">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Developer;Clean+Architecture+Advocate;Passionate+About+UX+and+Performance;Always+Learning+New+Tech">
 </p>
 
 ---
 
-## 🚀 About Me  
-- 💻 **Flutter Developer** with hands-on experience building **scalable, cross-platform apps**.  
-- 🏗 Skilled in **MVVM architecture**, **Bloc/Cubit**, and **Clean Code** principles.  
-- 🎯 Focused on **UX, animations, and performance optimization**.  
-- 🌍 Multilingual app development (Arabic & English).  
+## 🚀 About Me
+Dedicated and passionate **Flutter developer** with hands-on experience in building scalable, cross-platform mobile applications. Skilled in **MVVM architecture**, **reactive state management**, and **clean code principles**. Focused on delivering high-performance apps with great **UX and performance optimization**.
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
@@ -38,30 +31,52 @@
 
 ### [UMQ — Marine Tourism & Booking App](https://play.google.com/store/apps/details?id=umq.app.umq)  
 🌊 Booking Jet Ski rentals, diving trips, and swim training.  
-🔹 MVVM + Cubit/Bloc  
-🔹 Secure token storage (flutter_secure_storage)  
-🔹 Responsive UI with animations  
-🔹 API integration with Dio & Retrofit  
+- MVVM + Cubit/Bloc  
+- Secure token storage (flutter_secure_storage)  
+- Responsive UI with animations  
+- API integration with Dio & Retrofit  
+- Multilingual (Arabic & English)  
 
 ---
 
 ### [Hotel Booking App](#)  
 🏨 Real-time hotel search & booking.  
-🔹 Voice search & map view  
-🔹 Clean MVVM + Cubit  
-🔹 Fully responsive  
+- Voice search & map view  
+- Clean MVVM + Cubit  
+- Fully responsive  
 
 ---
 
 ### [Dorak — Financial Group Management App](#)  
 💰 Manage ROSCA-based savings groups.  
-🔹 Fingerprint authentication  
-🔹 Firebase integration  
-🔹 Multi-language support  
+- Fingerprint authentication  
+- Firebase integration  
+- Multi-language support  
 
 ---
 
-## 📊 GitHub Stats & Activity  
+### [XParts — E-commerce for Auto Spare Parts](#)  
+🛒 Browse & purchase auto spare parts.  
+- MVVM + Bloc, Dio, get_it  
+- Fully responsive + Arabic & English  
+
+---
+
+### [Meal App — Client & Delivery System](#)  
+🍔 Two-part food service app.  
+- Push notifications & deep links  
+- MVVM + Cubit architecture  
+
+---
+
+## 📜 Certificates
+- The Complete 2023 Flutter & Dart Development Course — *Udemy*  
+- Bloc & MVVM Pattern in Flutter — *Udemy*  
+- Flutter Clean Architecture — *Udemy*  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-AbdElmnaem&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-AbdElmnaem&theme=radical" height="150" />
@@ -72,7 +87,7 @@
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/ahmed-abdelmnaem-0a4068301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ahmedabdelmnaem6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
@@ -81,7 +96,6 @@
 
 ---
 
-<!-- Footer Animation -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </p>
